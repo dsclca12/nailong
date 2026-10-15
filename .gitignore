@@ -1,0 +1,13 @@
+# Build and archive artifacts
+*.tar
+*.tar.gz
+*.zip
+dist/.DS_Store
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
